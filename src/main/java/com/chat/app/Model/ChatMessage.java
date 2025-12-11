@@ -13,4 +13,8 @@ public class ChatMessage {
     private String content;
 
     //feature branch is added
+
+    /*
+    this is the new feature2 branch
+    */
 }
