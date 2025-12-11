@@ -13,4 +13,6 @@ public class ChatMessage {
     private String content;
 
     //feature branch is added
+
+    //(main) login and logout is added
 }
