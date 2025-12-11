@@ -16,5 +16,6 @@ public class ChatMessage {
 
     /*
     this is the new feature2 branch
+    demo dummy testing
     */
 }
